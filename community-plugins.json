@@ -13501,7 +13501,7 @@
     "author": "Titus",
     "description": "World building toolset with OnlyWorlds integration.",
     "repo": "OnlyWorlds/obsidian-plugin"
-  },
+    },
     {
         "id": "command-tracker",
         "name": "Command Tracker",
@@ -13607,11 +13607,11 @@
         "description": "A blazingly fast fuzzy finder with file preview.",
         "repo": "mProjectsCode/obsidian-lemons-search-plugin"
 	},
-  {
-    "id": "bujo-bullets",
-    "name": "BuJo Bullets",
-    "author": "Will Olson",
-    "description": "Alternate checkbox types to support Bullet Journal bullets.",
-    "repo": "frankolson/obsidian-bujo-bullets"
-  }
+    {
+        "id": "bujo-bullets",
+        "name": "BuJo Bullets",
+        "author": "Will Olson",
+        "description": "Alternate checkbox types to support Bullet Journal bullets.",
+        "repo": "frankolson/obsidian-bujo-bullets"
+    }
 ]
